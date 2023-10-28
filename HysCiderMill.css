@@ -1,0 +1,80 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    background: #c00000;
+    color: black;
+  }
+ 
+#brand {
+    font-family: Georgia, serif;
+    background: #c00000;
+    color: black;
+    margin-left: 50%;
+    text-align: center;
+    font-size: 50px;
+  }
+
+.information1 {
+    text-align: center;
+    max-width: 70%;
+    margin: auto;
+    font-size: 25px;
+    background: #8dd44b;
+    color: black;
+    border-style: solid;
+    padding: 5x;
+  }
+
+.honey {
+    text-align: center;
+    max-width: 70%;
+    margin: auto;
+    font-size: 20px;
+    background: #8dd44b;
+    color: black;
+    border-style: solid;
+    padding: 10x;
+  }
+
+#big {
+    font-family: Georgia, serif;
+    background: #8dd44b;
+    color: black;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 40px;
+    border-style: double;
+    padding: 5x;
+  }
+
+.dates {
+    text-align: center;
+    max-width: 70%;
+    margin: auto;
+    font-size: 20px;
+    background: #8dd44b;
+    color: black;
+    border-style: solid;
+    padding: 5x;
+  }
+
+.most_varieties{
+    text-align: auto;
+    padding: 5px;
+    border-style: solid;
+    font-size: 10px;
+  }
+
+.bold {
+    font-weight: bold;
+  }
+
+.underline {
+  text-decoration: underline;
+  }
+
+  header img { 
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+    width: 50%;
+    }
