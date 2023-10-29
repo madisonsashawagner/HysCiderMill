@@ -18,8 +18,8 @@ body {
     text-align: center;
     position: relative;
     right: -60%;
-    max-width: 25%;
-    margin-left: 10%;
+    max-width: 18%;
+    margin-left: 13%;
     font-size: 1em;
     background: #8dd44b;
     color: black;
@@ -30,12 +30,12 @@ body {
 
 .honey {
     text-align: center;
-    max-width: 25%;
-    margin-left: 10%;
+    max-width: 18%;
+    margin-left: 13%;
     font-size: 1em;
     background: #8dd44b;
     color: black;
-    border-style: double;
+    border-style: solid;
     border-weight: 6px;
     padding: 3px;
     position: relative;
@@ -48,7 +48,7 @@ body {
     color: black;
     margin-right: 10%;
     font-size: 30px;
-    border-style: double;
+    border-style: solid;
     border-weight: 6px;
     padding-left: 15px;
     padding-right: 15px;
