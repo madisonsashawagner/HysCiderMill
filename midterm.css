@@ -46,9 +46,11 @@ body {
     font-size: 30px;
     border-style: double;
     border-weight: 2px;
-    padding: 5x;
+    padding-left: 10px;
+    padding-right: 10px;
+    left: 15%;
+    width: fit-content;
     position: relative;
-    right: -20%;
     border-radius: 5px;
   }
 
