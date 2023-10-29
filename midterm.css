@@ -5,7 +5,6 @@ body {
   }
  
 #brand {
-    font-family: Georgia, serif;
     background: #c00000;
     color: black;
     margin-left: 50%;
@@ -15,6 +14,8 @@ body {
 
 .information1 {
     text-align: center;
+    position: relative;
+    right: -60%;
     max-width: 30%;
     margin-left: 10px;
     font-size: 20px;
@@ -34,10 +35,11 @@ body {
     border-style: double;
     border-weight: 2px;
     padding: 10x;
+    position: relative;
+    right: -60%;
   }
 
 #big {
-    font-family: Georgia, serif;
     background: #8dd44b;
     color: black;
     margin-right: 10%;
@@ -45,6 +47,8 @@ body {
     border-style: double;
     border-weight: 2px;
     padding: 5x;
+    position: relative;
+    right: 80%;
   }
 
 .dates {
@@ -65,7 +69,7 @@ body {
     padding: 5px;
     border-style: solid;
     font-size: 12px;
-    width: 30%;
+    width: 90%;
     margin-bottom: 5px;
     margin-right: 5px;
   }
@@ -77,6 +81,10 @@ body {
 .underline {
   text-decoration: underline;
   }
+
+.fancy{
+ font-family: Georgia, serif;
+}
 
   header img { 
     display: block;
