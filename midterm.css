@@ -10,14 +10,14 @@ body {
     color: black;
     margin-left: 50%;
     text-align: center;
-    font-size: 50px;
+    font-size: 70px;
   }
 
 .information1 {
     text-align: center;
-    max-width: 70%;
-    margin: auto;
-    font-size: 25px;
+    max-width: 30%;
+    margin-right: 10px;
+    font-size: 20px;
     background: #8dd44b;
     color: black;
     border-style: solid;
@@ -31,7 +31,8 @@ body {
     font-size: 20px;
     background: #8dd44b;
     color: black;
-    border-style: solid;
+    border-style: double;
+    border-weight: 2px;
     padding: 10x;
   }
 
@@ -40,15 +41,16 @@ body {
     background: #8dd44b;
     color: black;
     margin-left: 10%;
-    text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     border-style: double;
+    border-weight: 2px;
     padding: 5x;
   }
 
 .dates {
     text-align: center;
     max-width: 70%;
+    height: 180px;
     margin: auto;
     font-size: 20px;
     background: #8dd44b;
@@ -61,7 +63,10 @@ body {
     text-align: auto;
     padding: 5px;
     border-style: solid;
-    font-size: 10px;
+    font-size: 16px;
+    width: 30%;
+    margin-bottom: 10px;
+    margin-right: 10px;
   }
 
 .bold {
