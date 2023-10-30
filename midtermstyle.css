@@ -114,3 +114,17 @@ body {
     border-color: white;
     border-width: thick;
     }
+
+#footer {
+  text-align: center;
+  position: relative;
+  right: -60%;
+  max-width: 18%;
+  margin-left: 13%;
+  font-size: 12px;
+  background: #8dd44b;
+  color: black;
+  border-style: solid;
+  padding: 3px;
+  margin-bottom: 10px;
+}
