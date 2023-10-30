@@ -54,12 +54,12 @@ body {
     border-weight: 6px;
     padding-left: 15px;
     padding-right: 15px;
-    left: 15%;
+    left: 100px;
     width: fit-content;
     position: relative;
     border-radius: 10px;
     margin-bottom: 10px;
-    top: -80px;
+    top: -10px;
   }
 
 .dates {
@@ -73,7 +73,8 @@ body {
     border-style: solid;
     padding: 3px;
     columns:3;
-    top: -80px;
+    top: -0px;
+    left: 100px;
     position: relative;
   }
 
