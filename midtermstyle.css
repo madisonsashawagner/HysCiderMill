@@ -90,18 +90,18 @@ body {
   }
 
 .underline {
-  text-decoration: underline;
-  }
+    text-decoration: underline;
+    }
 
 .fancy{
- font-family: Georgia, serif;
+    font-family: Georgia, serif;
     }
 
 .curve{
     border-radius: 20px;
     }
 
-  header img { 
+header img { 
     display: inline-block;
     margin-left: 2%;
     margin-right: auto;
@@ -113,8 +113,11 @@ body {
     border-width: thick;
     }
 
+li {
+    margin-top: 10px;
+}
 
 footer {
-  text-align: center;
-  padding-top: 50px;
+    text-align: center;
+    padding-top: 50px;
 }
