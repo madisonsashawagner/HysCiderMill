@@ -101,6 +101,10 @@ body {
     border-radius: 20px;
     }
 
+.gap {
+  margin-bottom: 15px;
+}
+
 header img { 
     display: inline-block;
     margin-left: 2%;
