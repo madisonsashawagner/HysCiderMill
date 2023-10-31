@@ -82,9 +82,8 @@ body {
     padding: 5px;
     border-style: solid;
     font-size: 12px;
-    width: 90%;
-    margin-bottom: 5px;
-    margin-right: 5px;
+    width: 50%;
+    margin: auto;
   }
 
 .bold {
