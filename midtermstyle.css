@@ -70,6 +70,7 @@ body {
     background: #8dd44b;
     color: black;
     border-style: solid;
+    border-width: thick;
     padding: 15px;
     columns: 2;
     top: -0px;
